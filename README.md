@@ -1,4 +1,4 @@
-# restaurant-public
+# restaurant-pub
 
 Restaurant website template - public version.
 
@@ -8,7 +8,7 @@ start" or "yarn start". Only code preview is available.
 Files related to Amplify configuration were deleted from this code
 preview repository.
 
-## [View website live demo here](https://master.d2lff88cqai9i2.amplifyapp.com/)
+## [View website live demo here](https://www.awiadernyrestaurant.xyz/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -38,14 +38,14 @@ preview repository.
 
 ### Interesting files to explore in a project:
 
--   [package.json (explore libraries used in project)](https://github.com/awiaderny/restaurant-public/blob/master/package.json)
--   [Index page (explore used libraries and utilities)](https://github.com/awiaderny/restaurant-public/blob/master/src/index.tsx)
--   [Routes file (explore project structure)](https://github.com/awiaderny/restaurant-public/blob/master/src/Routes.tsx)
--   [Multi-step form for booking table component (React, Formik, Amplify, Auto-generated GraphQL API)](https://github.com/awiaderny/restaurant-public/blob/master/src/pages/BookTableFormPage.tsx)
--   [Multi-step form component for ordering food/drink (React, Formik, Amplify, Auto-generated GraphQL API)](https://github.com/awiaderny/restaurant-public/blob/master/src/pages/OrderPage.tsx)
--   [Main page component (Main page structure and components, fetching images from S3)](https://github.com/awiaderny/restaurant-public/blob/master/src/pages/MainPage.tsx)
--   [Drag and drop component](https://github.com/awiaderny/restaurant-public/blob/master/src/Components/forms/DragAndDropFood.tsx)
--   [Fade in on scroll animation component](https://github.com/awiaderny/restaurant-public/blob/master/src/Components/animations/FadeInContainer.tsx)
+-   [package.json (explore libraries used in project)](https://github.com/awiaderny/restaurant-pub/blob/master/package.json)
+-   [Index page (explore used libraries and utilities)](https://github.com/awiaderny/restaurant-pub/blob/master/src/index.tsx)
+-   [Routes file (explore project structure)](https://github.com/awiaderny/restaurant-pub/blob/master/src/Routes.tsx)
+-   [Multi-step form for booking table component (React, Formik, Amplify, Auto-generated GraphQL API)](https://github.com/awiaderny/restaurant-pub/blob/master/src/pages/BookTableFormPage.tsx)
+-   [Multi-step form component for ordering food/drink (React, Formik, Amplify, Auto-generated GraphQL API)](https://github.com/awiaderny/restaurant-pub/blob/master/src/pages/OrderPage.tsx)
+-   [Main page component (Main page structure and components, fetching images from S3)](https://github.com/awiaderny/restaurant-pub/blob/master/src/pages/MainPage.tsx)
+-   [Drag and drop component](https://github.com/awiaderny/restaurant-pub/blob/master/src/Components/forms/DragAndDropFood.tsx)
+-   [Fade in on scroll animation component](https://github.com/awiaderny/restaurant-pub/blob/master/src/Components/animations/FadeInContainer.tsx)
 
 <section
   style={{
