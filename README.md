@@ -8,7 +8,7 @@ start" or "yarn start". Only code preview is available.
 Files related to Amplify configuration were deleted from this code
 preview repository.
 
-## [View website live demo here](https://www.awiadernyrestaurant.xyz/)
+## [View website live demo here](https://www.awrestaurant.ovh/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
